@@ -1,0 +1,20 @@
+@RegistrationAPI_HostAddress = http://localhost:5298
+
+### Example registration request
+GET {{RegistrationAPI_HostAddress}}/api/registration
+Accept: application/json
+
+###
+
+### Create registration
+POST {{RegistrationAPI_HostAddress}}/api/registration
+Content-Type: application/json
+
+{
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "email": "jane.doe@example.com",
+  "password": "Password1",
+  "confirmPassword": "Password1",
+  "age": 30
+}
