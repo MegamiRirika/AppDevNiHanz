@@ -1,0 +1,36 @@
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\appsettings.json
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Lab 1.staticwebassets.endpoints.json
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Lab 1.exe
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Lab 1.deps.json
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Lab 1.runtimeconfig.json
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Lab 1.dll
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Lab 1.pdb
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\Lab 1\Lab 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.csproj.AssemblyReference.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.AssemblyInfoInputs.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.AssemblyInfo.cs
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\scopedcss\bundle\Lab 1.styles.css
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\swae.build.ex.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.csproj.Up2Date
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.dll
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\refint\Lab 1.dll
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.pdb
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\Lab 1.genruntimeconfig.cache
+D:\Visual Studio\Lab 1\Lab 1\obj\Debug\net8.0\ref\Lab 1.dll
